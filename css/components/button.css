@@ -1,0 +1,17 @@
+.button{
+  padding: 16px 36px;
+  border-radius: 50px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+.button-primary{
+  background: #1EDD88;
+  color: white;
+}
+
+.button-primary:hover{
+  background: #18a867;
+}

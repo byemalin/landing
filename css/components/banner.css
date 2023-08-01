@@ -1,0 +1,15 @@
+.banner{
+  /* background-image: url(https://startefacts.com/upload//upload/news/904321647281.jpg); */
+  background:linear-gradient(0deg, rgba(40, 40, 40, 0.3), rgba(19, 19, 19, 0.3)), url(https://startefacts.com/upload//upload/news/904321647281.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
